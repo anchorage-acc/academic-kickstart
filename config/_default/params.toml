@@ -97,7 +97,7 @@ address = {street = "IIT Dharwad, PB Road, Near High Court", city = "Dharwad", r
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "15.519121", longitude = "74.926089"}  , 
+coordinates = {latitude = "15.519121", longitude = "74.926089"}
 
 # Directions for visitors to locate you.
 directions = "Enter Main Building and take the stairs to Office on right side near library on Floor 1"
